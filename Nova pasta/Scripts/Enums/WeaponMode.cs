@@ -1,0 +1,5 @@
+enum WeaponMode
+{
+    SingleFire,
+    FullAutoAndSingleFire
+}
